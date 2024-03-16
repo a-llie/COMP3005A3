@@ -11,3 +11,7 @@ Program run instructions:
 * From a terminal, enter the directory containing the 'functions.py' file.
 * Run: ```python functions.py``` (Note: your python installation may vary).
 * Follow the prompts given by the application to execute desired commands. 
+
+
+## Link to video:
+https://youtu.be/FyzxKGPDIk0
